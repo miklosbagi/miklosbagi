@@ -1,8 +1,4 @@
-Oh dear, the plumber's pipes always leak.  
+# 🎄
+Happy Holidays To Y'all :)  
 
-```
-HAI 1.2
-  CAN HAS STDIO?
-  VISIBLE "O'HAI WORLD!!!1!"
-KTHXBYE
-```
+Oh dear, the plumber's pipes always leak.  
