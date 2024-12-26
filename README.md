@@ -1,5 +1,2 @@
-# 🎄
-Happy Holidays To Y'all :)  
-"Flippy would never protest."
-
+# Loading...
 Oh dear, the plumber's pipes always leak.  
