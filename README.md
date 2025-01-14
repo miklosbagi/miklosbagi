@@ -1,2 +1,2 @@
 # Loading...
-Oh dear, the plumber's pipes always leak.  
+Oh dear, looks like I'm too busy bossing around AIs; the plumber's pipes always leak.  
