@@ -4,7 +4,8 @@ With over 20 years in software quality, test strategy, and engineering leadershi
 
 ## Areas of Focus  
 
-- Test strategy & automation  
+- Test strategy & automation
+- Test tooling
 - CI/CD and TestOps  
 - Performance & reliability testing  
 - Infrastructure and cloud-based testing  
