@@ -1,6 +1,6 @@
 # Welcome  
 
-With over 20 years in software quality, test strategy, and engineering leadership, I’ve worked across a range of industries, helping teams build reliable, high-quality software. My experience spans hands-on test automation, infrastructure, performance engineering, and technical leadership in complex environments.  
+With over 20 years in software quality, test strategy, and engineering leadership, I’ve worked across a range of industries, helping teams build reliable, high-quality software. My experience spans hands-on test automation, infrastructure, performance engineering, and technical leadership in complex environments, but mainly helping people not get bitten by retroactive spiders and becoming [Captain Hindsight](https://www.youtube.com/watch?v=30mvxjcfCGI). 
 
 ## Areas of Focus  
 
