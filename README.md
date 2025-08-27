@@ -1,3 +1,9 @@
+> [!TIP]
+> *“Once men turned their thinking over to machines in the hope that this would set them free.  
+>  But that only permitted other men with machines to enslave them.”*
+>   
+> Frank Herbert, Dune, 1965
+
 ## 👋 Welcome
 
 I build software quality systems and processes that hold up under real world pressure — whether that’s mobile apps with millions of users, or microservices running on vessels in the middle of the ocean.
@@ -42,4 +48,3 @@ If it breaks, I want to know how—and why—before users do.
 ### 🤝 Let’s Connect  
 
 I enjoy working on challenging software quality problems and exploring better ways to test and build resilient systems. If you're interested in discussing ideas or potential collaboration, feel free to connect via [LinkedIn](https://www.linkedin.com/in/miklosbagi/).  
-
