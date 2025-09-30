@@ -15,7 +15,7 @@ Over the years, I’ve led QA and test strategy for media giants (Disney, ABC Ne
 Above all, I help tech leaders and teams avoid getting bitten by retroactive spiders—so they don’t end up as [Captain Hindsight](https://youtu.be/ulEImZvlVno). 
 
 ### 🔧 What I work on
-
+- Automated requirements analysis & test casing using atlassian-mcp and zephyr-mcp
 - Microservices testing (mocks, stubs, chaos simulations)
 - Shift-left quality strategy & hands-on automation
 - Test infrastructure embedded in CI/CD pipelines (TestOps)
@@ -33,6 +33,7 @@ Above all, I help tech leaders and teams avoid getting bitten by retroactive spi
 With 20+ years in software quality, test strategy, and engineering leadership, I’ve helped teams across diverse industries build reliable, high-quality software. My experience spans hands-on test automation, infrastructure, performance engineering, and guiding teams through complex technical environments.  
 
 ### 🧪 I believe in:
+- AI is turbocharging humanity 🚀 
 - Automation that adds confidence—not just coverage
 - Resilience as a mindset, not just a test suite
 - Infrastructure that makes testing frictionless
