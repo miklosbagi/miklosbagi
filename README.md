@@ -15,7 +15,7 @@ Over the years, I’ve led QA and test strategy for media giants (Disney, ABC Ne
 Above all, I help tech leaders and teams avoid getting bitten by retroactive spiders—so they don’t end up as [Captain Hindsight](https://youtu.be/ulEImZvlVno). 
 
 ### 🔧 What I work on
-- Automated requirements analysis & test casing using atlassian-mcp and zephyr-mcp
+- Automated requirements analysis & test casing using atlassian-mcp and smartbear-mcp
 - Microservices testing (mocks, stubs, chaos simulations)
 - Shift-left quality strategy & hands-on automation
 - Test infrastructure embedded in CI/CD pipelines (TestOps)
