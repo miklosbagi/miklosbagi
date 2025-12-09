@@ -6,7 +6,7 @@
 
 ## 👋 Welcome
 
-I build software quality systems and processes that hold up under real world pressure — whether that’s mobile apps with millions of users, or microservices running on vessels in the middle of the ocean.
+I build software quality systems and processes that hold up under real world pressure. Whether that’s mobile apps with millions of users, or microservices running on vessels in the middle of the ocean.
 
 I’m currently a Lead Quality Engineer at Ninety Percent of Everything (90POE), working in maritime tech. My focus is where testing meets infrastructure: TestOps, resilience, and CI/CD pipelines that don’t flinch under pressure.
 
@@ -15,6 +15,7 @@ Over the years, I’ve led QA and test strategy for media giants (Disney, ABC Ne
 Above all, I help tech leaders and teams avoid getting bitten by retroactive spiders—so they don’t end up as [Captain Hindsight](https://youtu.be/ulEImZvlVno). 
 
 ### 🔧 What I work on
+- AI assisted test coverage analysis on all test pyramid layers
 - Automated requirements analysis & test casing using atlassian-mcp and smartbear-mcp
 - Microservices testing (mocks, stubs, chaos simulations)
 - Shift-left quality strategy & hands-on automation
